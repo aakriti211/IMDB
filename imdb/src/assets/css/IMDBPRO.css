@@ -1,0 +1,31 @@
+.pro-pic {
+  height: 500px;
+  width: 300px;
+  margin-top: 50px;
+  margin-right: 1300px;
+}
+
+.background-image {
+  background-image: url("https://i2.wp.com/www.dronstudy.com/wp-content/uploads//2017/11/dark-background-with-star-like-dots_bkpaotdgh__F0000.png?ssl=1");
+  background-color: #cccccc;
+  height: 550px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  transform: translate(10%, 10%);
+  color: antiquewhite;
+  font-size: 30px;
+}
+
+.pro-button {
+  margin-top: 150px;
+  width: 500px;
+  margin-left: 600px;
+}

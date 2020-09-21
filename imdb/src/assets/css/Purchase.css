@@ -1,0 +1,16 @@
+@keyframes shoppingCart {
+  from {
+    margin-right: 1500px;
+  }
+  to {
+    margin-left: 1500px;
+  }
+}
+
+.animation {
+  margin-top: 150px;
+  position: relative;
+  animation-name: shoppingCart;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}

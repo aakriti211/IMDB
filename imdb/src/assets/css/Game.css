@@ -1,0 +1,20 @@
+.movie-list {
+  margin-top: 100px;
+}
+
+.movie-button {
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.tv-button {
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+
+.column {
+  margin-top: 100px;
+  float: left;
+  width: 25%;
+  border: 1px solid black;
+}

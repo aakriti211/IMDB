@@ -1,0 +1,11 @@
+.carousel-image {
+  width: 910px;
+  height: 510px;
+  margin-top: 200px;
+}
+.carousel-control-prev-icon {
+  background-color: black;
+}
+.carousel-control-next-icon {
+  background-color: black;
+}

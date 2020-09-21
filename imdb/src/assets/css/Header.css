@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  background: black;
+  height: 60px;
+  color: white;
+}
+
+.logo {
+  width: 64px;
+  height: 32px;
+  margin-left: 50px;
+}
+
+.dropdown {
+  width: 90.64px;
+  height: 36px;
+}

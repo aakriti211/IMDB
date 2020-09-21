@@ -1,0 +1,12 @@
+.movie-poster {
+  margin-top: 80px;
+  width: 970px;
+  height: 400px;
+}
+
+.data-table {
+  border-spacing: 0;
+  border: 1px solid black;
+  margin: 30px;
+  background-color: white;
+}

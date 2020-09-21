@@ -1,0 +1,9 @@
+#spinnerModal .modal-content {
+  background-color: transparent;
+  border: none;
+}
+#spinnerModal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
